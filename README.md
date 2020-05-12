@@ -18,14 +18,14 @@ Minmax Algorithm and Q-learning Algorithm
 
 ### Q-learning Algoritm
 <h3 align="center">
-<img src="Q-learning Algorithm.png" width="400">
+<img src="Q-learning Algorithm.png" width="400" height="600">
 </h3> 
                                                
 ### Winnings Of Minmax
-<img src="Minmax winnings.PNG" width="300">
+<img src="Minmax winnings.PNG" width="400" height="600">
 
 ### Winnings of Q-learning Algorithm
-<img src="Q learning winning.PNG" width="300">
+<img src="Q learning winning.PNG" width="400" height="600">
 
 ### Comparosion of Results ( MinmMax vs Q-learning)
-<img src="Comparision.png.PNG" width="300">
+<img src="Comparision.png.PNG" width="400" height="600">

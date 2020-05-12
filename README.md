@@ -38,7 +38,7 @@ As the robot explores the environment, the epsilon rate decreases and the robot 
 During the process of exploration, the robot progressively becomes more confident in estimating the Q-values.
 Now we have taken an action and observed an outcome and reward.We need to update the function Q(s,a).
 
-<img src="Formula.PNG" width="600" height="400">
+<img src="Formula.png" width="600" height="400">
 
                                                
 ### Winnings Of Minmax

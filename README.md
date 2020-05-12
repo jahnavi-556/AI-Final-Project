@@ -28,8 +28,18 @@ If the state is not terminal state it
 
 ### Q-learning Algoritm
 <h3 align="center">
-<img src="Q-learning Algorithm.png" width="500" height="400">
+<img src="Q-learning Algorithm.png" width="600" height="400">
 </h3> 
+
+We will first build a Q-table. 
+Action (a) in the state (s) based on the Q-Table. But, as mentioned earlier, when the episode initially starts, every Q-value is 0.
+ The robot will explore the environment and randomly choose actions. The logic behind this is that the robot does not know anything  the environment.
+As the robot explores the environment, the epsilon rate decreases and the robot starts to exploit the environment.
+During the process of exploration, the robot progressively becomes more confident in estimating the Q-values.
+Now we have taken an action and observed an outcome and reward.We need to update the function Q(s,a).
+
+<img src="Formula.PNG" width="600" height="400">
+
                                                
 ### Winnings Of Minmax
 <img src="Minmax winnings.PNG" width="600" height="400">

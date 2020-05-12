@@ -18,7 +18,8 @@ Minmax Algorithm and Q-learning Algorithm
  
 As shown in the figure the maximiser and minimizer are two recursive functions which accepts the state as a variable.
 In the maximizer it first checks whether the state is terminal state i.e end state then it return its utility.
-If the state is not terminal state it * Define v as negative infinity and  it call its’s own function for the v by passing result of next possible state and action.
+If the state is not terminal state it 
+* Define v as negative infinity and  it call its’s own function for the v by passing result of next possible state and action.
 * The loop continues until it reaches the terminal state
 * The same thing going to happen in maximiser recursive function except defining v as positive infinity for the maximiser.
 

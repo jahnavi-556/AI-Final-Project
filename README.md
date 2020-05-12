@@ -22,7 +22,7 @@ Minmax Algorithm and Q-learning Algorithm
 </h3> 
                                                
 ### Winnings Of Minmax
-<img src="Minmax winnings.png" width="300">
+<img src="Minmax winnings.PNG" width="300">
 
 ### Winnings of Q-learning Algorithm
 <img src="Q learning winning.PNG" width="300">

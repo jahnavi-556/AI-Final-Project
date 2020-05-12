@@ -38,7 +38,7 @@ As the robot explores the environment, the epsilon rate decreases and the robot 
 During the process of exploration, the robot progressively becomes more confident in estimating the Q-values.
 Now we have taken an action and observed an outcome and reward.We need to update the function Q(s,a).
 
-<img src="Formula.png" width="600" height="400">
+<img src="Formula.png" width="400" height="200">
 
                                                
 ### Winnings Of Minmax
@@ -54,7 +54,7 @@ computer wins 6 times and 2 times the game is tie
 <img src="Q learning winning.PNG" width="600" height="400">
 In the q-learning game there are 4 human wins 4 computer wins and 2 ties
 
-### Comparosion of Results ( MinmMax vs Q-learning)
+### Comparision of Results ( MinmMax vs Q-learning)
 <img src="Comparision.png.PNG" width="600" height="400">
 The graph with seconds as y axis and games as x-axis the orange represents the minmax and blue line represents q-learning out of 10 games minmazx agent has completed the game 7 times in less time than qlearning algorithm 
 * Tis clearly shows that Minmax takes less time to complete the game than Q-learning Algorithm.

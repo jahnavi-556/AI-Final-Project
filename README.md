@@ -44,11 +44,22 @@ Now we have taken an action and observed an outcome and reward.We need to update
 ### Winnings Of Minmax
 <img src="Minmax winnings.PNG" width="600" height="400">
 
+In mimmax game the human wins 2 times 
+computer wins 6 times and 2 times the game is tie
+* this clearly shows that Minmax Algorithm gives tough competetion to the users
+
+
+
 ### Winnings of Q-learning Algorithm
 <img src="Q learning winning.PNG" width="600" height="400">
+In the q-learning game there are 4 human wins 4 computer wins and 2 ties
 
 ### Comparosion of Results ( MinmMax vs Q-learning)
 <img src="Comparision.png.PNG" width="600" height="400">
+The graph with seconds as y axis and games as x-axis the orange represents the minmax and blue line represents q-learning out of 10 games minmazx agent has completed the game 7 times in less time than qlearning algorithm 
+* Tis clearly shows that Minmax takes less time to complete the game than Q-learning Algorithm.
+
+
 
 ### Results 
 Minmax Algorithm is the best algorithm for the implementation of the Tic-Tac-Toe game. As the time taken to complete the game is less and it gives tough competition to the user.

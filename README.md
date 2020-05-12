@@ -12,14 +12,14 @@ Minmax Algorithm and Q-learning Algorithm
 *	By evaluating both the algorithms considering the complexity of code and time taken to complete as the key factors. Finally, we will select the best Algorithm to implement the tic tac toe game
 
 ### Minmax Algorithm
-<h3 align="center>
+<h3 align="center">
 <img src="MinmMax Algorithm.png" width="400">
-                                            </h3>                                 
+ </h3>                                 
 
 ### Q-learning Algoritm
-<h3 align="center>
+<h3 align="center">
 <img src="Q-learning Algorithm.png" width="300">
-</h3>  
+</h3> 
                                                
 ### Winnings Of Minmax
 <img src="Minmax winnings.PNG" width="300">
